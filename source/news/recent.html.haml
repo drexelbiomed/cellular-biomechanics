@@ -3,3 +3,11 @@ title: Recent News
 ---
 
 %h1= current_page.data.title
+
+%ul.unstyled
+  - data.news.each do |n|
+    %li
+      = n.date
+      %br
+      %strong= n.body
+      %hr

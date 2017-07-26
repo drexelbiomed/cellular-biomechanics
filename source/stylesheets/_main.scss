@@ -160,9 +160,11 @@ img.left {
   padding-bottom: .5em;
 }
 
-ol {
-  li {
-    margin-bottom: 1em;
+.main-content, .main-content-home {
+  ol, ul {
+    li {
+      margin-bottom: 1em;
+    }
   }
 }
 

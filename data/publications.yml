@@ -1,18 +1,18 @@
-- authors: test
-  title: test
-  journal: test
-  doi: test
-  pmid: test
-  pmcid: test
-- authors: test
-  title: test
-  journal: test
-  doi: test
-  pmid: test
-  pmcid: test
-- authors: test
-  title: test
-  journal: test
-  doi: test
-  pmid: test
-  pmcid: test
+- authors: Kilinc, D., Gallo, G., Barbee, K.
+  title: Mechanically-induced membrane poration causes axonal beading and localized cytoskeletal damage.
+  journal: Experimental Neurology. 2008. (epub ahead of print)
+  doi: doi:10.1016/j.expneurol.2008.04.025
+  pmid:
+  pmcid:
+- authors: Kilinc, D., Gallo, G., Barbee, K.
+  title: Poloxamer 188 Reduces Axonal Beading Following Mechanical Trauma to Cultured Neurons.
+  journal: "Conf Proc IEEE Eng Med Biol Soc. 2007: 5395-8."
+  doi:
+  pmid:
+  pmcid:
+- authors: Ergezen, E., S. Hong, et al.
+  title: Real time monitoring of the effects of Heparan Sulfate Proteoglycan (HSPG) and surface charge on the cell adhesion process using thickness shear mode (TSM) sensor.
+  journal: "Biosensors & Bioelectronics 22(9-10): 2256-2260."
+  doi:
+  pmid:
+  pmcid:
